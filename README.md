@@ -27,7 +27,7 @@ pnpm dev
 
 `content/profile.ts`：个人简介原文、经历、荣誉、服务、专利和动态。
 
-`content/publications.ts`：全部 16 条成果，已合并 Google Scholar 的 15 条记录及简历中的 AGIRA；`selected: true` 的代表作排前。论文不显示外部链接或切换控件。
+`content/publications.ts`：全部 15 条成果，按用户要求已移除 AGIRA；`selected: true` 的代表作排前。论文不显示外部链接或切换控件。
 
 `content/projects.ts`：科研项目。
 
